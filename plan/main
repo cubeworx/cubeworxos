@@ -1,1 +1,4 @@
 #include <turnkey/base>
+
+apt-transport-https
+gnupg
